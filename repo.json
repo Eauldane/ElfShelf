@@ -7,7 +7,7 @@
         "TestingAssemblyVersion": "0.2.0.2",
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
         "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
+        "RepoUrl": "https://git.snowcloak-sync.com/Eauldane/SnowcloakClient",
         "Tags": [
           "customization"
         ],
