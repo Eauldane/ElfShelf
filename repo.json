@@ -19,8 +19,8 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "CanUnloadAsync": true,
-        "DownloadLinkInstall": "https://github.com/Eauldane/SnowcloakClient/releases/download/0.4.1/SnowcloakClient.zip",
-        "DownloadLinkTesting": "https://github.com/Eauldane/SnowcloakClient/releases/download/0.4.1/SnowcloakClient.zip",
-        "DownloadLinkUpdate": "https://github.com/Eauldane/SnowcloakClient/releases/download/0.4.1/SnowcloakClient.zip"
+        "DownloadLinkInstall": "https://github.com/Eauldane/SnowcloakClient/releases/download/0.4.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Eauldane/SnowcloakClient/releases/download/0.4.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Eauldane/SnowcloakClient/releases/download/0.4.1/latest.zip"
     }
 ]
