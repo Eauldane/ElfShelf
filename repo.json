@@ -3,8 +3,8 @@
         "Author": "Eauldane",
         "Name": "Snowcloak Sync",
         "InternalName": "Snowcloak",
-        "AssemblyVersion": "1.0.1",
-        "TestingAssemblyVersion": "1.0.1",
+        "AssemblyVersion": "1.0.2",
+        "TestingAssemblyVersion": "1.0.2",
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
@@ -14,13 +14,13 @@
         "DalamudApiLevel": 13,
         "TestingDalamudApiLevel": 13,
         "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/Eauldane/SnowcloakClient/refs/heads/main/MareSynchronos/images/logo.png",
+        "IconUrl": "https://raw.githubusercontent.com/Eauldane/SnowcloakClient/refs/heads/main/Snowcloak/images/logo.png",
         "Punchline": "Come in from the cold and show us your true self.",
         "IsHide": false,
         "IsTestingExclusive": false,
         "CanUnloadAsync": true,
-        "DownloadLinkInstall": "https://github.com/Eauldane/SnowcloakClient/releases/download/1.0.1/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Eauldane/SnowcloakClient/releases/download/1.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Eauldane/SnowcloakClient/releases/download/1.0.1/latest.zip"
+        "DownloadLinkInstall": "https://github.com/Eauldane/SnowcloakClient/releases/download/1.0.2/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Eauldane/SnowcloakClient/releases/download/1.0.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Eauldane/SnowcloakClient/releases/download/1.0.2/latest.zip"
     }
 ]
