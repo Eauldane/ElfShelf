@@ -3,13 +3,13 @@
         "Author": "Eauldane",
         "Name": "Snowcloak Sync",
         "InternalName": "Snowcloak",
-        "AssemblyVersion": "2.5.1",
-        "TestingAssemblyVersion": "2.5.1",
+        "AssemblyVersion": "2.5.2",
+        "TestingAssemblyVersion": "2.5.2",
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
         "Tags": [
-          "customization", "sync", "snowcloak"
+          "customisation", "customization" ,"sync", "snowcloak"
         ],
         "DalamudApiLevel": 14,
         "TestingDalamudApiLevel": 14,
@@ -19,8 +19,104 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "CanUnloadAsync": true,
-        "DownloadLinkInstall": "https://github.com/Eauldane/SnowcloakClient/releases/download/2.5.1/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Eauldane/SnowcloakClient/releases/download/2.5.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Eauldane/SnowcloakClient/releases/download/2.5.1/latest.zip"
+        "DownloadLinkInstall": "https://github.com/Eauldane/SnowcloakClient/releases/download/2.5.2/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Eauldane/SnowcloakClient/releases/download/2.5.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Eauldane/SnowcloakClient/releases/download/2.5.2/latest.zip"
+    },
+    {
+        "Author": "Eauldane",
+        "Name": "BigMac",
+        "InternalName": "BigMac",
+        "AssemblyVersion": "1.0.0",
+        "TestingAssemblyVersion": "1.0.0",
+        "Description": "Extends macro capabilities with conditionals, extra functions, and a few other nice things.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Eauldane/BigMac",
+        "Tags": [
+            "macros", "scripting"
+        ],
+        "DalamudApiLevel": 14,
+        "TestingDalamudApiLevel": 14,
+        "LoadPriority": 0,
+        "IconUrl": "https://eauldane.com/logos/bigmac.png",
+        "Punchline": "Macros with a bit of sauce.",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "CanUnloadAsync": true,
+        "DownloadLinkInstall": "https://github.com/Eauldane/BigMac/releases/download/1.0.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Eauldane/BigMac/releases/download/1.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Eauldane/BigMac/releases/download/1.0.0/latest.zip"
+    },
+    {
+        "Author": "Eauldane",
+        "Name": "Ledger",
+        "InternalName": "Ledger",
+        "AssemblyVersion": "1.0.1",
+        "TestingAssemblyVersion": "1.0.1",
+        "Description": "Shows collection progress for achievements, titles, mounts, minions, orchestrion rolls, and more.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Eauldane/Ledger",
+        "Tags": [
+            "achievements", "completionist", "orchestrion", "mounts", "triple triad", "minions"
+        ],
+        "DalamudApiLevel": 14,
+        "TestingDalamudApiLevel": 14,
+        "LoadPriority": 0,
+        "IconUrl": "https://eauldane.com/logos/ledger.png",
+        "Punchline": "Scratch that completionist itch.",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "CanUnloadAsync": true,
+        "DownloadLinkInstall": "https://github.com/Eauldane/Ledger/releases/download/1.0.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Eauldane/Ledger/releases/download/1.0.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Eauldane/Ledger/releases/download/1.0.1/latest.zip"
+    },
+    {
+        "Author": "Eauldane",
+        "Name": "Armoire",
+        "InternalName": "Armoire",
+        "AssemblyVersion": "0.0.171",
+        "TestingAssemblyVersion": "0.0.171",
+        "Description": "[ALPHA] Change your appearance in-game.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
+        "Tags": [
+            "alpha", "modding"
+        ],
+        "DalamudApiLevel": 14,
+        "TestingDalamudApiLevel": 14,
+        "LoadPriority": 0,
+        "IconUrl": "https://eauldane.com/logos/ledger.png",
+        "Punchline": "[ALPHA] Appearance changer.",
+        "IsHide": false,
+        "IsTestingExclusive": true,
+        "CanUnloadAsync": true,
+        "DownloadLinkInstall": "https://github.com/Eauldane/Armoire/releases/download/0.0.171/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Eauldane/Armoire/releases/download/0.0.171/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Eauldane/Armoire/releases/download/0.0.171/latest.zip"
+    },
+    {
+        "Author": "Eauldane",
+        "Name": "Weave",
+        "InternalName": "Weave",
+        "AssemblyVersion": "0.0.171",
+        "TestingAssemblyVersion": "0.0.171",
+        "Description": "[ALPHA] PMP compatible mod loader.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
+        "Tags": [
+            "alpha", "modding"
+        ],
+        "DalamudApiLevel": 14,
+        "TestingDalamudApiLevel": 14,
+        "LoadPriority": 0,
+        "IconUrl": "https://eauldane.com/logos/ledger.png",
+        "Punchline": "[ALPHA] Mod loader.",
+        "IsHide": false,
+        "IsTestingExclusive": true,
+        "CanUnloadAsync": true,
+        "DownloadLinkInstall": "https://github.com/Eauldane/Weave/releases/download/0.0.171/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Eauldane/Weave/releases/download/0.0.171/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Eauldane/Weave/releases/download/0.0.171/latest.zip"
     }
 ]
